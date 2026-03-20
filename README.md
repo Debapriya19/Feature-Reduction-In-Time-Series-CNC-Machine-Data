@@ -21,7 +21,6 @@ The focus was on reducing model complexity and sensor input size while preservin
 
 This was a group project with roles as documented in the [final report](/p3-feature-reduction-in-time-series-main/Feature_Reduction_in_Time_Series_CNC_Machine_data_Report_Final.pdf)
 
-:
 
 - **Debapriya Roy**  
   - Data engineering: schema validation, safe chronological splits  
